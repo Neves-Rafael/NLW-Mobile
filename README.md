@@ -42,5 +42,8 @@ Siga os seguintes passos para configurar e rodar a aplicação localmente:
 - É possível acessar o estabelecimento e ver todas as informações
 - É possível navegar pelo maps com base em sua localzação
 
+  <h1 align="center">🔧 Recursos</h1>
+  
+- React-Native - Expo - TypeScript - Jest - Tailwind (NativeWind)
 
 <p align="center">Feito com ❤️ por Rafael Neves 👋🏽 <a href="https://www.linkedin.com/in/rafael-neves-profile/">Entre em Contato</a></p>
